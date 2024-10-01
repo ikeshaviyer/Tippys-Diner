@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody rb;
     public Camera playerCamera;
 
+    // hello
     void Start()
     {
         rb = GetComponent<Rigidbody>();
